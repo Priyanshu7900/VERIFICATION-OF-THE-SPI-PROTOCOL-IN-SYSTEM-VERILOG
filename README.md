@@ -21,7 +21,7 @@ This project implements and verifies the Serial Peripheral Interface (SPI) proto
 
 
 ## Architecture
-The processor comprises modules including:
+The project comprises modules including:
 - spi_master.sv: Implements the SPI Master module that transmits 12-bit parallel input data (din) serially on the mosi line using a state machine. It controls cs (chip select) and sclk (serial clock) signals, and begins transmission when newd is asserted. The data is shifted out MSB-first, synchronized with the SPI clock..
 - spi_master_results.txt: Contains the simulation output logs showing the sequence of SPI transactions. It records generated input data, data sent by the driver, data monitored from the DUT, and the scoreboard’s comparison results — helping verify correctness of the SPI protocol implementation..
 - spi_master_tb.sv:  Testbench module that instantiates and connects the generator, driver, monitor, scoreboard, and interface. It controls the simulation flow, applies reset, generates the clock, and starts the verification process for the spi_master module.
