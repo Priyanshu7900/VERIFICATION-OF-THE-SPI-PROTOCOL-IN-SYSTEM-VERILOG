@@ -1,0 +1,122 @@
+[DRV] : RESET DONE
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 3876 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3876
+[MON] : DATA SENT : 3876
+[SCO] : DRV : 3876 MON : 3876
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 194 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 194
+[MON] : DATA SENT : 194
+[SCO] : DRV : 194 MON : 194
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 3807 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3807
+[MON] : DATA SENT : 3807
+[SCO] : DRV : 3807 MON : 3807
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 2585 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2585
+[MON] : DATA SENT : 2585
+[SCO] : DRV : 2585 MON : 2585
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 1513 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1513
+[MON] : DATA SENT : 1513
+[SCO] : DRV : 1513 MON : 1513
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 1229 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1229
+[MON] : DATA SENT : 1229
+[SCO] : DRV : 1229 MON : 1229
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 2330 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2330
+[MON] : DATA SENT : 2330
+[SCO] : DRV : 2330 MON : 2330
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 352 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 352
+[MON] : DATA SENT : 352
+[SCO] : DRV : 352 MON : 352
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 3405 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3405
+[MON] : DATA SENT : 3405
+[SCO] : DRV : 3405 MON : 3405
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 618 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 618
+[MON] : DATA SENT : 618
+[SCO] : DRV : 618 MON : 618
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 358 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 358
+[MON] : DATA SENT : 358
+[SCO] : DRV : 358 MON : 358
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 3879 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 3879
+[MON] : DATA SENT : 3879
+[SCO] : DRV : 3879 MON : 3879
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 603 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 603
+[MON] : DATA SENT : 603
+[SCO] : DRV : 603 MON : 603
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 1124 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1124
+[MON] : DATA SENT : 1124
+[SCO] : DRV : 1124 MON : 1124
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 1203 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1203
+[MON] : DATA SENT : 1203
+[SCO] : DRV : 1203 MON : 1203
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 116 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 116
+[MON] : DATA SENT : 116
+[SCO] : DRV : 116 MON : 116
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 1038 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 1038
+[MON] : DATA SENT : 1038
+[SCO] : DRV : 1038 MON : 1038
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 1 DIN : 2818 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2818
+[MON] : DATA SENT : 2818
+[SCO] : DRV : 2818 MON : 2818
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 793 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 793
+[MON] : DATA SENT : 793
+[SCO] : DRV : 793 MON : 793
+[SCO] : DATA MATCHED
+-----------------------------------------
+[GEN] : DATA_NEW : 0 DIN : 2937 CS : 0 MOSI : 0 
+[DRV] : DATA SENT TO DAC : 2937
+[MON] : DATA SENT : 2937
+[SCO] : DRV : 2937 MON : 2937
+[SCO] : DATA MATCHED
+-----------------------------------------
