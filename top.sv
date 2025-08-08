@@ -13,3 +13,12 @@ spi_slave s1  (sclk, cs, mosi, dout, done);
   
  
 endmodule
+interface spi_if;  
+  logic clk;
+  logic rst;
+  logic newd;
+  logic [11:0] din;
+  logic [11:0] dout;
+  logic done; 
+  logic sclk;
+endinterface
