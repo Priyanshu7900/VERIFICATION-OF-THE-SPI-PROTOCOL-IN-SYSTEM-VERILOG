@@ -39,14 +39,16 @@ The processor comprises modules including:
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu7900/-32-bit-RISC-V-single-cycle-processor-design-in-verilog.git
+  git clone https://github.com/Priyanshu7900/VERIFICATION-OF-THE-SPI-PROTOCOL-IN-SYSTEM-VERILOG.git
+
 
 ```
 
 Go to the project directory
 
 ```bash
-  cd -32-bit-RISC-V-single-cycle-processor-design-in-verilog
+  cd VERIFICATION-OF-THE-SPI-PROTOCOL-IN-SYSTEM-VERILOG
+
 ```
 
  Install a Verilog Simulator
